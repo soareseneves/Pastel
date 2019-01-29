@@ -11,7 +11,6 @@
 		4C8BD1CB1EC851DA00E0BACF /* PastelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8BD1CA1EC851DA00E0BACF /* PastelTests.swift */; };
 		4C8BD1CD1EC851DA00E0BACF /* Pastel.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C8BD1BF1EC851DA00E0BACF /* Pastel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4CADB8DC1EC852F700873CC9 /* PastelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CADB8D81EC852F700873CC9 /* PastelView.swift */; };
-		4CADB8DD1EC852F700873CC9 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 4CADB8DA1EC852F700873CC9 /* .gitkeep */; };
 		4CBCC0B71ECDE0F600B8522C /* PastelGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBCC0B61ECDE0F600B8522C /* PastelGradient.swift */; };
 		50FD0037201FD1C90076A8B6 /* PastelPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FD0035201FD1C90076A8B6 /* PastelPoint.swift */; };
 		50FD0038201FD1C90076A8B6 /* PastelLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50FD0036201FD1C90076A8B6 /* PastelLabel.swift */; };
@@ -35,7 +34,6 @@
 		4C8BD1CA1EC851DA00E0BACF /* PastelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PastelTests.swift; sourceTree = "<group>"; };
 		4C8BD1CC1EC851DA00E0BACF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4CADB8D81EC852F700873CC9 /* PastelView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PastelView.swift; sourceTree = "<group>"; };
-		4CADB8DA1EC852F700873CC9 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		4CBCC0B61ECDE0F600B8522C /* PastelGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PastelGradient.swift; sourceTree = "<group>"; };
 		50FD0035201FD1C90076A8B6 /* PastelPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PastelPoint.swift; sourceTree = "<group>"; };
 		50FD0036201FD1C90076A8B6 /* PastelLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PastelLabel.swift; sourceTree = "<group>"; };
@@ -112,7 +110,6 @@
 		4CADB8D91EC852F700873CC9 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				4CADB8DA1EC852F700873CC9 /* .gitkeep */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -212,7 +209,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4CADB8DD1EC852F700873CC9 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
